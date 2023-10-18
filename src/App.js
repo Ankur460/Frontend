@@ -5,7 +5,7 @@ import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Footer from "./components/Footer";
-import { Dashboard } from "@mui/icons-material";
+import Dashboard from "./components/Dashboard";
 
 function App() {
   return (
